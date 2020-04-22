@@ -12,3 +12,11 @@ npm install
 npm start
 
 ```
+
+
+##### gh-pages`s url
+
+```
+https://overusdev.github.io/store/public/
+
+```
