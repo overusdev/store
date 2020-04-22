@@ -1,0 +1,12 @@
+.b-product-item {
+    background: #eee;
+    height: 150px;
+    padding: 10px;
+    margin-bottom: 24px;
+    cursor: pointer;
+    transition: all .3s ease-in-out;
+
+    &:hover {
+        opacity: 0.4;
+    }
+}
