@@ -1,22 +1,15 @@
 ##### install
 
-```
-npm install
+> npm install
 
-```
 
 
 ##### starting project
 
-```
-npm start
-
-```
+> npm start
 
 
 ##### gh-pages`s url
 
-```
-https://overusdev.github.io/store/public/
+> [https://overusdev.github.io/store/public/](https://overusdev.github.io/store/public/)
 
-```
